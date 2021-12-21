@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.9dce5d24.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.92cbb734.js",
-    "static/js/2.dae92d85.chunk.js": "/static/js/2.dae92d85.chunk.js",
-    "static/js/3.98580a18.chunk.js": "/static/js/3.98580a18.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.dae92d85.chunk.js.LICENSE.txt": "/static/js/2.dae92d85.chunk.js.LICENSE.txt"
+    "main.js": "/unlynk.app/static/js/main.9999e226.chunk.js",
+    "runtime-main.js": "/unlynk.app/static/js/runtime-main.026a9c41.js",
+    "static/js/2.63710c8f.chunk.js": "/unlynk.app/static/js/2.63710c8f.chunk.js",
+    "static/js/3.98580a18.chunk.js": "/unlynk.app/static/js/3.98580a18.chunk.js",
+    "index.html": "/unlynk.app/index.html",
+    "static/js/2.63710c8f.chunk.js.LICENSE.txt": "/unlynk.app/static/js/2.63710c8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92cbb734.js",
-    "static/js/2.dae92d85.chunk.js",
-    "static/js/main.9dce5d24.chunk.js"
+    "static/js/runtime-main.026a9c41.js",
+    "static/js/2.63710c8f.chunk.js",
+    "static/js/main.9999e226.chunk.js"
   ]
 }
